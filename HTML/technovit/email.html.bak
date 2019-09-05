@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Technovit Email Invite</title>
+<style>
+body {text-align:center;}
+.main{
+    background-color: white;
+    color: black;
+    align: center;
+    margin-left:auto; 
+    margin-right:auto;
+    word-wrap: break-word;
+    width: 65%;
+    heigth: 10%;
+}
+td{
+    font-family: Algerian, Times, serif;
+}
+div{
+    padding: 15px;
+}
+header{
+    align: center;
+}
+.logo{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 65%;
+}
+.row-first{
+    font-size: 25px;
+}
+.submit{
+    background: #0077b7;
+    font: bold 15px arial;
+    color: black;
+    font-size: 20px;
+
+}
+.other-text{
+    font-size: 16px;
+}
+.icon-list{
+    list-style: none;
+}
+li{
+    display: inline;
+    padding: 0px 75px 5px 75px;
+    margin: auto;
+}
+</style>
+</head>
+<body yahoo>
+<table class="main">
+<tr><td><header><img src="https://drive.google.com/uc?id=1yriavo1Mr_dRE9IBW6cGs79g54g_hjji" class="logo" alt="technovit_logo"/><br><br></header></td></tr>
+<tr><td><div class="row-first"><br><br><b>Got no plans this September?</b></div></td></tr>
+<tr><td><div class="other-text">That changes now! We bring VIT Chennai presents for you in 5th edition of technoVIT.</div></td></tr>
+<tr><td><div class="other-text">19-21st September</div></td></tr>
+<tr><td><div class="other-text">Just as pumped as we are?</div></td></tr>
+<tr><td><div><form action="https://www.vitchennaievents.com/technovit/login/"  method="get"><input type="submit" value="Register Now!" class="submit"/></form></div></td></tr>
+<tr><td><div class="other-text">Want to keep hearing from us?</div></td></tr>
+<tr><td><div><form action="#" method="get"><input type="submit" value="Get Notifications" class="submit"/></div><br><br><br><br><br><br></td></tr>
+<tr><td><ul class="icon-list">
+<li><a href="https://www.instagram.com/technovit19/?hl=en"><img src="https://drive.google.com/uc?id=1_N-wW0iQpO6tz_OEabORv1aw-U-AJHh-" width="3%" height="3%" alt="Instagram"/></a></li>
+<li><a href="https://www.facebook.com/vitcctechnoVIT/"><img src="https://drive.google.com/uc?id=1zhVbPThry28ToWsadRzxHEGSuhPuu5gM" width="3%" height="3%" alt="Facebook"/></a></li>
+<li><a href="https://www.linkedin.com/company/technovit-chennai/"><img src="https://drive.google.com/uc?id=1cmOIpXd5KE0zlo-QR1XvNqdrp0k-dpzd" width="3%" height="3%" alt="LinkedIn"/></a></li>
+<li><a href="https://twitter.com/technovit"><img src="https://drive.google.com/uc?id=14pO82e6c557PjXj1JJmTvpUOhfidFCyU" width="3%" height="3%" alt="Twitter"/></a></li></ul>
+<br><img src ="notif_button.png"  style="width:50p%;height:25%;align:auto;"/>
+</table>
+</body>
+</html>

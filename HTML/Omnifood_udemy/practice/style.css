@@ -1,0 +1,6 @@
+header{
+    background-image: linear-gradient(rgba(30, 178, 197, 0.507),rgba(30, 178, 197, 0.507)),url("/home/abhijith/Downloads/10-11.jpg");
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+}

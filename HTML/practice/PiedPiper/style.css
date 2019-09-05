@@ -1,0 +1,13 @@
+header {
+    background-image: url("images/download.png");
+    background-size: cover;
+    background-position: center;
+}
+ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    background-color: #333333;
+    color: white;
+}
